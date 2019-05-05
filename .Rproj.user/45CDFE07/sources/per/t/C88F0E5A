@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548808253945.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "84|13|101|4|\n102|18|119|4|\n110|17|118|6|\n120|18|137|4|\n",
+    "hash" : "4064912396",
+    "id" : "C88F0E5A",
+    "lastKnownWriteTime" : 1548874993,
+    "last_content_update" : 1549719196649,
+    "path" : "D:/1. Ana/3. Info/10. Facultate/Anul II/Sem I/Probabilitati si Statistica/7. Proiect/Spanzuratoare/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "208,6",
+        "scrollLine" : "181"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

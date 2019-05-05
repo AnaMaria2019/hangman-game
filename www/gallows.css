@@ -1,0 +1,107 @@
+#cap{
+
+border: 1px solid black;
+border-radius:50%;
+position: absolute;
+width: 45px;
+height: 45px;
+margin-top:43px;
+margin-left: 70px;
+background-color: white;
+z-index: 10;
+visibility: hidden;
+
+}
+#corp
+{
+	border: 1px solid black;
+border-radius:30%;
+position: absolute;
+width: 45px;
+height: 80px;
+margin-top:85px;
+margin-left: 72px;
+background-color: white;
+visibility: hidden;
+
+}
+#picior-stang
+{
+border: 1px solid black;
+border-radius:40%;
+position: absolute;
+width: 15px;
+height: 50px;
+margin-top:159px;
+margin-left: 70px;
+background-color: white;
+-webkit-transform: rotate(5deg);
+visibility: hidden;
+
+}
+#picior-drept
+{
+border: 1px solid black;
+border-radius:40%;
+position: absolute;
+width: 15px;
+height: 50px;
+margin-top:159px;
+margin-left: 105px;
+background-color: white;
+-webkit-transform: rotate(-5deg);
+visibility: hidden;
+
+}
+#mana-dreapta
+{
+border: 1px solid black;
+border-radius:50%;
+position: absolute;
+width: 15px;
+height: 60px;
+margin-top:86px;
+margin-left: 109.5px;
+background-color: white;
+-webkit-transform: rotate(-10deg);
+visibility: hidden;
+
+}
+#mana-stanga
+{
+border: 1px solid black;
+border-radius:50%;
+position: absolute;
+width: 15px;
+height: 60px;
+margin-top:86px;
+margin-left: 65px;
+background-color: white;
+-webkit-transform: rotate(10deg);
+visibility: hidden;
+
+
+}
+#container
+{
+	width: 400px;
+	height: 400px;
+	position: relative;
+}
+
+
+.litera
+{
+	display: inline-block;
+	height: 15px;
+	width: 15px;
+	text-align: center;
+	background-color: lightblue;
+	border:0.5px solid grey;
+	border-radius: 10%;
+	margin-right: 3px;
+}
+
+#cuvant_container{
+	margin-bottom: 20px;
+}
