@@ -1,4 +1,4 @@
-# HangMan_Game
+# hangman-game
 HangMan game application with 3 levels of difficulty developed using R Shiny package.
 
 ### Prerequisites
